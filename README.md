@@ -2,7 +2,7 @@
 
 # HMC6343A
 
-The HDC1000 is a digital humidity sensor with an integrated temperature sensor that provides excellent measurement accuracy at very low power.The device measures humidity based on a novel capacitive sensor. The humidity and temperature sensors are factory calibrated.
+The Honeywell HMC6343 is a fully integrated compass module that includes firmware for heading computation and calibration for magnetic distortions.The module combines three-axis magneto-resistive sensor, three-axis MEMS accelerometer, analog and digital support circuits, a microprocessor and algorithms required for heading computation.
 This Device is available from www.ncd.io
 
 [SKU: HMC6343A]
